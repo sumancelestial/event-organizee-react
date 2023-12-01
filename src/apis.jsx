@@ -51,6 +51,7 @@ export const postNewEvent = async (user, body) => {
 }
 
 export const getSingleEvent = async (user, id) => {
+    console.log("get single event")
     const config = {
         method: "GET",
         headers: {
