@@ -2,7 +2,7 @@
   "name": "event-management-react-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sumancelestial.github.io/event-organizee-react",
+  "homepage": "https://sumancelestial.github.io/event-organizee-react/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
